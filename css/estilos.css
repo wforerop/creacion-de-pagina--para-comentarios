@@ -1,0 +1,10 @@
+body{
+	
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#div_table{
+	border: 4;
+	border-color: red;
+}
